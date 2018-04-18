@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TIcTacToe_Andela</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="player_X">%1$d</string>
+    <string name="player_O">%1$d</string>
+    <string name="title_activity_five_by_five">FiveByFIveActivity</string>
+</resources>
